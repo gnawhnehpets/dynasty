@@ -105,7 +105,7 @@
 
 <h1>PDF.js 'Hello, world!' example</h1>
 
-<iframe src="https://github.com/gnawhnehpets/dynasty/blob/0d9dacf5f96ffd1ccdec3d79c82f774d797287b5/src/routes/constitution/constitution.pdf" width="100%" height="500px">
+<iframe src="/src/routes/constitution/constitution.pdf" width="100%" height="500px">
     </iframe>
 
 
