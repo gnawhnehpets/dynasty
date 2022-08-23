@@ -101,11 +101,13 @@
 
 
 <div class="constitution">
-<script src="//mozilla.github.io/pdf.js/build/pdf.js"></script>
+<script src="http://mozilla.github.io/pdf.js/build/pdf.js"></script>
 
 <h1>PDF.js 'Hello, world!' example</h1>
 
-<canvas id="the-canvas"></canvas>
+<iframe src="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" width="100%" height="500px">
+    </iframe>
+
 
 <!--    <h1 class="noUnderscore">LEGENDS LEAGUE CONSTITUTION</h1>
     
