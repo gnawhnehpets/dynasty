@@ -103,7 +103,7 @@
 <div class="constitution">
 <script src="http://mozilla.github.io/pdf.js/build/pdf.js"></script>
 
-<h1>PDF.js 'Hello, world!' example</h1>
+<h2>Constitution</h2>
 
 <iframe src="/src/routes/constitution/constitution.pdf" width="100%" height="500px">
     </iframe>
