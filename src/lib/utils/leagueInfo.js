@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <h6>Welcome to the inaugural salary cap dynasty league!</h6>
-  <img src="https://c.tenor.com/EJ6Bm6cGg4IAAAAC/farmerfran-waterboy.gif" style="width:100%"></img>
+  <img src="https://c.tenor.com/EJ6Bm6cGg4IAAAAC/farmerfran-waterboy.gif" style="width:80%; align:center"></img>
   <p>No consensus on date so far, but the most amenable seems to be 8/28 on Sunday 7-10 PM. If this date is completely not doable please reach out to me ASAP.  I know this is short notice, but hopefully we can all carve out time on this date.</p><p>League Rules Version 1.0 (Subject to change, but major cornerstones of what should be good are in place)
   <a href="https://dynasty-git-master-stephenyounghwang-gmailcom.vercel.app/constitution">here</a>.</p>
   <p>Please send me dues as soon as possible to confirm your spot. Once everything is in place, I will randomly draw the rookie draft seeding.</p><p>Also, this is a major change, but we are going to try a new fantasy app out Sleeper Invite to the league: <a href="https://sleeper.app/i/jEGwPG2lXxXw">https://sleeper.app/i/jEGwPG2lXxXw</a></p>
