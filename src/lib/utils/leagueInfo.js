@@ -20,7 +20,7 @@ export const homepageText = `
   <p>Thanks,</br>
   Scott</p>
 
-  <p>P.S. If you would like your manager profile updated, please send me the following:</p>
+  <p></br></br>P.S. If you would like your manager profile updated, please send me the following:</p>
   <p>location</br>
   biography</br>
   photo: jpeg, png only please</br>
