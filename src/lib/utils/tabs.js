@@ -27,6 +27,10 @@ export const tabs = [
         nest: true,
         children: [
             {
+                icon: 'history_edu',
+                label: 'Constitution',
+                dest: '/constitution',
+            },{
                 icon: 'storage',
                 label: 'Rosters',
                 dest: '/rosters',
@@ -45,27 +49,22 @@ export const tabs = [
                 icon: 'view_comfy',
                 label: 'Drafts',
                 dest: '/drafts',
-            },
-            {
-                icon: 'emoji_events',
-                label: 'Trophy Room',
-                dest: '/awards',
-            },
-            {
-                icon: 'military_tech',
-                label: 'Records',
-                dest: '/records',
-            },
-            {
-                icon: 'history_edu',
-                label: 'Constitution',
-                dest: '/constitution',
-            },
-            {
-                icon: 'sports_football',
-                label: 'Go to Sleeper',
-                dest: `https://sleeper.app/leagues/${leagueID}`,
-            },
+            }
+            // {
+            //     icon: 'emoji_events',
+            //     label: 'Trophy Room',
+            //     dest: '/awards',
+            // },
+            // {
+            //     icon: 'military_tech',
+            //     label: 'Records',
+            //     dest: '/records',
+            // },
+            // {
+            //     icon: 'sports_football',
+            //     label: 'Go to Sleeper',
+            //     dest: `https://sleeper.app/leagues/${leagueID}`,
+            // },
         ]
     },
     {
