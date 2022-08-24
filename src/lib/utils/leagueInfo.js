@@ -7,7 +7,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>test homepage text</p>
+  <p>Welcome to the inaugural salary cap dynasty league!</p>
+  <p>Please review the rules <a href="https://dynasty-git-master-stephenyounghwang-gmailcom.vercel.app/constitution">here</a>.</p>
 `;
 
 /*   STEP 3   */
