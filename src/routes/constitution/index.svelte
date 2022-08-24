@@ -8,5 +8,6 @@
 	});
 </script>
   
-<svelte:component this={PdfViewer} url="./constitution.pdf"/>
+<svelte:component this={PdfViewer} src="./constitution.pdf"/>
+<iframe><a href="/"><img id="logo" alt="league logo" src="./badge.png" /></a></iframe>
 
