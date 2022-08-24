@@ -8,5 +8,5 @@
 	});
 </script>
   
-<svelte:component this={PdfViewer} url="./src/routes/constitution/constitution.pdf"/>
+<svelte:component this={PdfViewer} url="./constitution.pdf"/>
 
