@@ -15,7 +15,7 @@
         getFreshNews();
     }
 
-    const perPage = 10;
+    const perPage = 5;
     let total = 0;
     let page = 0;
     let displayArticles = [];
