@@ -1,5 +1,5 @@
-<script src="//mozilla.github.io/pdf.js/build/pdf.js"></script>
+<script>
+	import PdfViewer from 'svelte-pdf';
+</script>
 
-<h1>PDF.js 'Hello, world!' example</h1>
-
-<canvas id="the-canvas"></canvas>
+<PdfViewer url='https://raw.githubusercontent.com/vinodnimbalkar/svelte-pdf/369db2f9edbf5ab8c87184193e1404340729bb3a/public/sample.pdf' />
