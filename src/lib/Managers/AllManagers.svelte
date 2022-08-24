@@ -28,6 +28,13 @@
         line-height: 1em;
     }
 
+    h5 {
+        text-align: center;
+        font-size: 2em;
+        margin: 2em 0 1.5em;
+        line-height: 1em;
+    }
+
     @media (max-width: 520px) {
         h2 {
             text-align: center;
