@@ -1,6 +1,6 @@
 /*   STEP 1   */
 export const leagueID = "867459577837416448"; // your league ID
-export const leagueName = "Salary Cap Dynasty"; // your league name
+export const leagueName = "SC Dynasty 2022"; // your league name
 export const dues = 250; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
