@@ -1,5 +1,12 @@
 <script>
-	import PdfViewer from 'svelte-pdf';
+	import { onMount } from "svelte";
+	let PdfViewer;
+  
+	onMount(async () => {
+	  const module = await import("svelte-pdf");
+	  PdfViewer = module.default;
+	});
 </script>
+  
+<svelte:component this={PdfViewer} url="./constitution.pdf"/>
 
-<PdfViewer url='./constitution.pdf' />
