@@ -7,9 +7,8 @@
     "url": "git://github.com/nmelhado/league-page.git"
   },
   "author": {
-    "name": "Nicholas Melhado",
-    "email": "n.melhado@gmail.com",
-    "url": "http://www.nmelhado.com/"
+    "name": "SH",
+    "email": "yj0902@gmail.com"
   },
   "contributors": [
     {
@@ -49,7 +48,7 @@
     "docker-build": "docker build . -t $USER/league-page:latest",
     "docker-run": "npm run docker-build && docker run -p 3000:3000 $USER/league-page:latest",
     "preview": "svelte-kit preview",
-    "prepare": "npm run smui-theme-light && npm run smui-theme-dark",
+    "prepare": "npm run smui-theme-light && npm run smui-theme-dark && npm run svelte-pdf",
     "smui-theme-light": "smui-theme compile static/smui.css -i src/theme",
     "smui-theme-dark": "smui-theme compile static/smui-dark.css -i src/theme/dark",
     "lint": "prettier --check --plugin-search-dir=. . && eslint --ignore-path .gitignore .",
