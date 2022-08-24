@@ -19,6 +19,18 @@ export const homepageText = `
   
   <p>Thanks,</br>
   Scott</p>
+
+  <p>P.S. If you would like your manager profile updated, please send me the following:</p>
+  <p>location</br>
+  biography</br>
+  photo: jpeg, png only please</br>
+  year you started fantasy</br>
+  favorite team</br>
+  rival</br>
+  favorite player</br>
+  favorite position</br>
+  personal philosophy or quote</br>
+  preferred contact method</p>
 `;
 
 /*   STEP 3   */
